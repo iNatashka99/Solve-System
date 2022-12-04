@@ -1,7 +1,0 @@
-﻿  Matrix.cpp
-  Solve.cpp
-  SolveSystem.cpp
-c:\users\inata\мэи\11_sem\на git\solvesystem\solvesystem\solvesystem.cpp(28): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-  Vector.cpp
-  Создание кода...
-  SolveSystem.vcxproj -> C:\Users\iNata\МЭИ\11_sem\на git\SolveSystem\x64\Debug\SolveSystem.exe
